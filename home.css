@@ -123,6 +123,7 @@ div {
 .buttons{
     font-size: 22px;
     font-family: Verdana;
+    text-decoration: none;
     color: #BB7B41;
 }
 
