@@ -56,3 +56,9 @@ h1{
   sup{
     font-weight: bold;
   }
+
+  .buttons{
+    font-size: 22px;
+    font-family: Verdana;
+    color: #BB7B41;
+}
