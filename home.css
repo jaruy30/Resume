@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     height:20%;
     font-size: 55px;
@@ -136,3 +137,136 @@ img
   margin-left: 10px;
 }
 
+=======
+h1{
+    height:20%;
+    font-size: 55px;
+    text-align: center;
+    color: #5A4938;
+    background-color: #CBA077;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 35%;
+    padding: 5px;
+    font-family: Georgia;
+    text-shadow: 1px 2px beige
+  }
+  
+  img{
+    width:10%;
+    height:10%;
+    border-radius: 6px;
+    padding:5px 5px 5px 5px;
+    background-color: #5A4938;
+    margin: 25% 25% 1% 5%;
+  
+    
+  }
+
+  hr{
+      height: 5px;
+      border: none;
+      background-color: #5A4938;
+      margin-bottom: 0px;
+      margin-top: -2px;
+      margin-left: 35%; 
+  }
+  
+  h2{
+    font-size: 25px;
+    color: #5A4938;
+    font-family: Verdana;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: -20px;
+    
+  }
+  
+  
+  .title{
+      color: #BB7B41;
+      text-align: left;
+      margin-bottom: 10px;
+      font-family: Georgia;
+      text-shadow: 1px 1px #5A4938
+      
+  }
+  
+  p{
+    font-size: 16px;
+    line-height: 22px;
+    text-align: justify;
+    color: #5A4938;
+    font-family: Verdana;
+    margin-top: 10px;
+    margin-left: 35%;
+  }
+  
+  .name{
+    color: #BB7B41;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    height:50px;
+    font-size: 45px;
+    font-family: Georgia;
+    text-shadow: 1px 2px #5A4938;
+  }
+  
+  sup{
+    font-weight: bold;
+  }
+
+h3{
+  font-size: 20px;
+  line-height: 1;
+  color: #5A4938;
+  font-family: Verdana;
+}
+
+ul{
+  color:#5A4938;
+  font-family: Verdana;
+  font-size: 19px;
+  line-height: 25px;
+}
+
+div {
+    max-width: 900px;
+    max-height: 60%;
+    margin: 150px auto;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 1px 3px 7px #5A4938;
+}
+
+.navbar{
+    font-family: Georgia;
+    height: 5px;
+    width: 93.5%;
+    max-width: 100%;
+    margin-left: -10px;
+    margin-top: -50px;
+    margin-bottom: -85px;
+}
+
+.h2_navbar{
+    font-size: 20px;
+    text-align: left;
+    margin-left: -25px;
+    margin-top: 1px;
+
+}
+
+img
+{
+  float: left;
+  width: 28%;
+  height: 28%;
+  margin-right: 3%;
+  margin-top: -80px;
+  margin-left: 10px;
+}
+>>>>>>> f97086fc7b1933b189938533f137e6fb7ffabbbb
