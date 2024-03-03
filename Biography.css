@@ -54,3 +54,9 @@ h1{
   sup{
     font-weight: bold;
   }
+
+  .buttons{
+    font-size: 22px;
+    font-family: Georgia;
+    color: #BB7B41;
+  }
