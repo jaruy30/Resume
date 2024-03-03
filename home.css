@@ -120,6 +120,12 @@ div {
 
 }
 
+.buttons{
+    font-size: 25px;
+    font-family: Verdana;
+    color: #BB7B41;
+}
+
 img
 {
   float: left;
@@ -129,3 +135,4 @@ img
   margin-top: -80px;
   margin-left: 10px;
 }
+
