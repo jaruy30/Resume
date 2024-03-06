@@ -85,7 +85,7 @@ a:hover {
 
 .childhood{
   width:fit-content;
-  margin-left: 500px; 
+  margin-left: 450px; 
   margin-top: 0px; 
   margin-bottom: -10px;
   font-size: 10px;
@@ -93,7 +93,7 @@ a:hover {
 
 .teenage{
   width:fit-content;
-  margin-left: 870px;
+  margin-left: 820px;
   margin-top: -65px; 
   margin-bottom: -10px;
   font-size: 10px;
@@ -107,5 +107,5 @@ a:hover {
   margin-top: -65px; 
   margin-bottom: -10px;
   font-size: 10px;
-  margin-left: 1150px; 
+  margin-left: 1100px; 
 }
