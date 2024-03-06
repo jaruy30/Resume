@@ -84,3 +84,30 @@ a {
 a:hover {
   color: black;
 }
+
+.skills{
+  width:fit-content;
+  margin-left: 450px; 
+  margin-top: 0px; 
+  margin-bottom: -10px;
+  font-size: 10px;
+}
+
+.hobbies{
+  width:fit-content;
+  margin-left: 820px;
+  margin-top: -65px; 
+  margin-bottom: -10px;
+  font-size: 10px;
+  text-align: center;
+}
+
+.interests{
+
+  width:fit-content; 
+  text-align: right; 
+  margin-top: -65px; 
+  margin-bottom: -10px;
+  font-size: 10px;
+  margin-left: 1150px; 
+}
